@@ -3,5 +3,5 @@ A mock-up concept for a membership-based service to find and book co-working spa
 
 ## [Live Demo](http://spaceshare-coworking.herokuapp.com/) 
 username: demo@spaceshare.com | password: demo
-## [Frontend](github.com/jerryjcchang/spaceshare-frontend)
-## [Backend](github.com/jerryjcchang/spaceshare-backend)
+## [Frontend](http://github.com/jerryjcchang/spaceshare-frontend)
+## [Backend](http://github.com/jerryjcchang/spaceshare-backend)
